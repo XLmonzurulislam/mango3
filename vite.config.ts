@@ -35,9 +35,3 @@ export default defineConfig({
     emptyOutDir: true,
   },
 });
-
-export default defineConfig({
-  build: {
-    outDir: "dist"
-  }
-});
